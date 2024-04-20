@@ -3,7 +3,8 @@
 ## Comandos Básicos de Terminal
 
 ### Navegación de Directorios
-- `cd`: Cambiar de directorio.
+- `cd NombreDirectorio`: Cambiar de directorio.
+- `cd`: Movernos al directorio home del usuario.
 - `ls`: Listar contenido de un directorio.
 - `pwd`: Mostrar el directorio actual.
 
